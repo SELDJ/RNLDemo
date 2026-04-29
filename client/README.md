@@ -71,3 +71,7 @@ export default defineConfig([
   },
 ])
 ```
+
+## Project Note
+
+This frontend belongs to the RNLDemo course project and keeps the existing application structure.
