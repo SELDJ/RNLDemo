@@ -75,3 +75,7 @@ export default defineConfig([
 ## Project Note
 
 This frontend belongs to the RNLDemo course project and keeps the existing application structure.
+
+### Collaboration Note
+
+Part 18 update: documentation-only commit for collaboration tracking.
